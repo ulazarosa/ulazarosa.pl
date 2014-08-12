@@ -1,0 +1,110 @@
+@import url(http://fonts.googleapis.com/css?family=Roboto:300,300italic,700,700italic|Roboto+Condensed:700&subset=latin,latin-ext);
+
+html {
+  height: 100%;
+}
+
+body {
+  height: 100%;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300;
+}
+
+strong {
+  font-weight: 700;
+}
+
+h1, h2, h3 {
+  margin-top: 30px;
+  font-family: 'Roboto Condensed', sans-serif;
+  text-transform: uppercase;
+  font-weight: 700;
+}
+
+h1 {
+  font-size: 70px;
+}
+
+h2 {
+  font-size: 55px;
+}
+
+h3 {
+  font-size: 40px;
+}
+
+p {
+  font-size: 20px;
+  line-height: 30px;
+  text-align: justify;
+}
+
+section {
+  padding-top: 80px;
+  padding-bottom: 80px;
+}
+
+blockquote {
+  border-right: 2px solid #ffffff;
+  font-style: italic;
+  font-size: 24px;
+  margin-top: 100px;
+  padding-top: 0px;
+  padding-bottom: 0px
+}
+
+blockquote.pull-right {
+  border-right: 2px solid #ffffff;
+}
+
+.navbar {
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size: 22px; 
+}
+
+.navbar-brand {
+  font-size: 30px;
+}
+
+#ula {
+  background: url("../images/ula-zarosa.jpg") no-repeat center center; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  min-height: 100%;
+  color: #ffffff;
+  text-align: right;
+}
+
+#ula p {
+  text-align: right; 
+}
+
+.uz-competence-icon {
+  display: block;
+  font-size: 100px;
+  text-align: center;
+  color: #2A39F6;
+}
+
+.uz-competence-icon-write {
+  color: #d9534f;
+}
+
+.uz-competence-icon-lectures {
+  color: #5cb85c;
+}
+
+.uz-competence-icon-teach {
+  color: #428bca;
+}
+
+#kompetencje h2 {
+  text-align: center;	
+}
+
+#kontakt {
+  background-color: #000000;
+  color: white;
+}
