@@ -28,6 +28,7 @@ h1 {
 
 h2 {
   font-size: 55px;
+  margin-bottom: 20px;
 }
 
 h3 {
@@ -123,6 +124,7 @@ blockquote.pull-right {
 }
 
 .uz-competence-icon-write {
+  padding-left: 22px;
   color: #d9534f;
 }
 
@@ -134,8 +136,17 @@ blockquote.pull-right {
   color: #428bca;
 }
 
+.uz-action-panel {
+  margin-top: 36px;
+  margin-bottom: 70px;
+}
+
 #kompetencje h2 {
   text-align: center;	
+}
+
+#kompetencje {
+  padding-bottom: 0px;
 }
 
 #kontakt {
