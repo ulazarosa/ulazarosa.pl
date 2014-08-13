@@ -71,6 +71,10 @@ blockquote.pull-right {
   padding-left: 50px;
 }
 
+.btn-lg {
+  font-size: 20px;
+}
+
 #ula {
   background: url("../images/ula-zarosa.jpg") no-repeat center center; 
   -webkit-background-size: cover;
