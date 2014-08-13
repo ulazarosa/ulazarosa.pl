@@ -103,6 +103,14 @@ blockquote.pull-right {
   background-color: rgba(255,255,255,0.7);
 }
 
+#teksty {
+  background: url("../images/birds.jpg");
+}
+
+#teksty .container {
+  background-color: rgba(255,255,255,0.9);
+}
+
 .uz-competence-icon {
   display: block;
   font-size: 100px;
