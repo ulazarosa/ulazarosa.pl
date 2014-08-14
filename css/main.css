@@ -68,7 +68,7 @@ blockquote.pull-right {
 
 .navbar {
   font-family: 'Roboto Condensed', sans-serif;
-  font-size: 22px; 
+  font-size: 22px;
 }
 
 .navbar-brand {
@@ -85,7 +85,7 @@ blockquote.pull-right {
 
 
 #ula {
-  background: url("../images/ula-zarosa.jpg") no-repeat center center; 
+  background: url("../images/ula-zarosa.jpg") no-repeat center center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -101,12 +101,12 @@ blockquote.pull-right {
 }
 
 #ula p {
-  text-align: right; 
+  text-align: right;
 }
 
 
 #kompetencje h2 {
-  text-align: center;   
+  text-align: center;
 }
 
 #kompetencje {
@@ -139,7 +139,7 @@ blockquote.pull-right {
 
 
 #o_mnie {
-  background: url("../images/hydrangea.jpg") no-repeat center center fixed; 
+  background: url("../images/warsaw.jpg") no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -147,7 +147,7 @@ blockquote.pull-right {
 }
 
 #o_mnie .container {
-  background-color: rgba(255,255,255,0.7);
+  background-color: rgba(255,255,255,0.8);
 }
 
 #o_mnie .row {
