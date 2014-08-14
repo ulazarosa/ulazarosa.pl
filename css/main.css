@@ -33,6 +33,7 @@ h2 {
 
 h3 {
   font-size: 40px;
+  margin-bottom: 20px;
 }
 
 p {
@@ -44,6 +45,12 @@ p {
 section {
   padding-top: 70px;
   padding-bottom: 70px;
+}
+
+section li {
+  margin-top: 5px;
+  margin-bottom: 5px;
+  font-size: 20px;
 }
 
 blockquote {
