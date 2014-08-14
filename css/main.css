@@ -76,6 +76,7 @@ blockquote.pull-right {
   font-size: 20px;
 }
 
+
 #ula {
   background: url("../images/ula-zarosa.jpg") no-repeat center center; 
   -webkit-background-size: cover;
@@ -96,24 +97,18 @@ blockquote.pull-right {
   text-align: right; 
 }
 
-#o_mnie {
-  background: url("../images/hydrangea.jpg") no-repeat center center fixed; 
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
+
+#kompetencje h2 {
+  text-align: center;   
 }
 
-#o_mnie .container {
-  background-color: rgba(255,255,255,0.7);
+#kompetencje {
+  padding-bottom: 0px;
 }
 
-#teksty {
-  background: url("../images/birds.jpg");
-}
-
-#teksty .container {
-  background-color: rgba(255,255,255,0.9);
+.uz-competence-icon-write {
+  padding-left: 22px;
+  color: #d9534f;
 }
 
 .uz-competence-icon {
@@ -121,11 +116,6 @@ blockquote.pull-right {
   font-size: 100px;
   text-align: center;
   color: #2A39F6;
-}
-
-.uz-competence-icon-write {
-  padding-left: 22px;
-  color: #d9534f;
 }
 
 .uz-competence-icon-lectures {
@@ -141,12 +131,30 @@ blockquote.pull-right {
   margin-bottom: 70px;
 }
 
-#kompetencje h2 {
-  text-align: center;	
+
+#o_mnie {
+  background: url("../images/hydrangea.jpg") no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
 
-#kompetencje {
-  padding-bottom: 0px;
+#o_mnie .container {
+  background-color: rgba(255,255,255,0.7);
+}
+
+#o_mnie .row {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+#teksty {
+  background: url("../images/birds.jpg");
+}
+
+#teksty .container {
+  background-color: rgba(255,255,255,0.9);
 }
 
 #kontakt {
