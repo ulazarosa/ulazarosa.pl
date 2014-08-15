@@ -189,3 +189,15 @@ blockquote.pull-right {
   width: 41px;
   text-align: center;
 }
+
+footer {
+  background: #f8f8f8;
+  color: #777;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  text-align: center;
+  font-size: 14px;
+  font-family: 'Roboto Condensed', sans-serif;
+}
