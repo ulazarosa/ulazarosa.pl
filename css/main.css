@@ -28,12 +28,12 @@ h1 {
 
 h2 {
   font-size: 55px;
-  margin-bottom: 20px;
+  margin-bottom: 28px;
 }
 
 h3 {
   font-size: 40px;
-  margin-bottom: 20px;
+  margin-bottom: 24px;
 }
 
 p {
@@ -48,8 +48,8 @@ section {
 }
 
 section li {
-  margin-top: 5px;
-  margin-bottom: 5px;
+  margin-top: 7px;
+  margin-bottom: 7px;
   font-size: 20px;
 }
 
@@ -165,5 +165,27 @@ blockquote.pull-right {
 
 #kontakt {
   background-color: #000000;
-  color: white;
+  color: #ffffff;
+}
+
+#kontakt a {
+  color: #ffffff; 
+}
+
+#kontakt a:hover {
+  text-decoration: none;
+  color: #b0b0ff; 
+}
+
+.uz-no-bullet-list {
+  padding-left: 0;
+}
+
+.uz-no-bullet-list li {
+  display: block;
+}
+
+.uz-no-bullet-list li i {
+  width: 41px;
+  text-align: center;
 }
